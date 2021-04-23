@@ -1,0 +1,2 @@
+*.uvprojx -merge -text
+*.uvoptx -merge -text

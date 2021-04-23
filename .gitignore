@@ -1,0 +1,25 @@
+# Project build files
+*.o
+*.d
+*.axf
+*.dep
+*.lnp
+*.htm
+*.__i
+*._ia
+*.lst
+*.crf
+*.map
+*.sct
+*.scvd
+
+# Temp files
+*.TMP
+
+# Keil uVision window configuration files
+*.uvguix.*
+
+# Mac files
+*.DS_Store
+
+tags
